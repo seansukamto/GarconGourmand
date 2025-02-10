@@ -1,2 +1,2 @@
 # GarconGourmand
-The best homemade cakes and more at https://www.instagram.com/garcon.gourmand/?hl=en
+Website for the best homemade cakes and more: https://www.instagram.com/garcon.gourmand/?hl=en
